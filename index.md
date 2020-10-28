@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% Maia's first portfolio section %}
 
 <br>
 
@@ -11,6 +11,7 @@ layout: default
 <br>
 
 {% include 03-links.md %}
+
 
 <br>
 
