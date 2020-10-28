@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Tech
+2. Music gear
+3. Books
